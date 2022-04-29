@@ -26,5 +26,5 @@ Here's a walkthrough of implemented web pages:
 <img src="https://i.imgur.com/CUqbI8i.gif" width="500" height="300"/>
 
 
-GIF created with Stella.
+GIF created by @stellashen0911
 
