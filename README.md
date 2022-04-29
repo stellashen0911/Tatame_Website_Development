@@ -7,24 +7,24 @@ Due to the company Non-Disclosure Rule, I cannot post the source code of this pr
 Here's a walkthrough of implemented web pages:
 
 
-About us
+- About us
 <img src="https://i.imgur.com/02gl2MV.gif" width="500" height="300"/>
 
-
-Home
+- Home
 <img src="https://i.imgur.com/4FFuvnG.gif" width="500" height="300"/>
 
-Key-technology
+- Key-technology
 <img src="https://i.imgur.com/1Z6FwjG.gif" width="500" height="300"/>
 
-News
+- News
 <img src="https://i.imgur.com/arG1Nrn.gif" width="500" height="300"/>
 
-Tatame showRoom
+- Tatame showRoom
 <img src="https://i.imgur.com/dNx4fUO.gif" width="500" height="300"/>
 
-Tatame workRoom
+- Tatame workRoom
 <img src="https://i.imgur.com/CUqbI8i.gif" width="500" height="300"/>
 
 
 GIF created with Stella.
+
